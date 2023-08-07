@@ -27,3 +27,6 @@ A script that writes into the file ls_cwd_content the result of the command ls -
 
 # Duplication
 A script to duplicate the last line of a file. (9-duplicate_last_line)
+
+# Deleting JS Files
+A script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders. (10-no_more_js)
