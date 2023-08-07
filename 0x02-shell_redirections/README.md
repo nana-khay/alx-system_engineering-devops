@@ -12,3 +12,6 @@ A script to display content of two files
 
 # Display Lastlines
 A script to display the last 10 lines of a file (4-lastlines)
+
+# Display Lastlines
+A script to display first 10 lines of a file (5-firstlines)
