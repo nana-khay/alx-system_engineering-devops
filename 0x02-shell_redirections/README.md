@@ -35,5 +35,8 @@ A script that deletes all the regular files (not the directories) with a .js ext
 A script to count number of hidden and unhidden directories. (11-directories)
 
 # Order Of Files
-A  script that displays the 10 newest files in the current directory. (12-newest_files)
+A script that displays the 10 newest files in the current directory. (12-newest_files)
+
+# Unique
+A script that takes a list of words as input and prints only words that appear exactly once. (13-unique)
 
