@@ -15,3 +15,6 @@ A script to display the last 10 lines of a file (4-lastlines)
 
 # Display Lastlines
 A script to display first 10 lines of a file (5-firstlines)
+
+# Display Third Line
+A script to display the third line of a file (6-third_line)
