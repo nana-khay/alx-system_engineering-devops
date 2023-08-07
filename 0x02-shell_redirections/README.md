@@ -24,3 +24,6 @@ A script to create a file containing Best School (7-file)
 
 # Writing Into A File
 A script that writes into the file ls_cwd_content the result of the command ls -la. (8-cwd_state)
+
+# Duplication
+A script to duplicate the last line of a file. (9-duplicate_last_line)
