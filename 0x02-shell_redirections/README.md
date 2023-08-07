@@ -21,3 +21,6 @@ A script to display the third line of a file (6-third_line)
 
 # Create A File
 A script to create a file containing Best School (7-file)
+
+# Writing Into A File
+A script that writes into the file ls_cwd_content the result of the command ls -la. (8-cwd_state)
