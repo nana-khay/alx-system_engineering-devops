@@ -7,5 +7,8 @@ A script to produce a confused smiley
 # Display Content
 A script to display the content of a file
 
-# Display content of files
+# Display Content Of Files
 A script to display content of two files
+
+# Display Lastlines
+A script to display the last 10 lines of a file (4-lastlines)
