@@ -72,3 +72,6 @@ A script to find empty files and directories. (100-empty_casks)
 
 # List Files With Extension
 A script that lists all the files with a .gif extension in the current directory and all its sub-directories. (101-gifs)
+
+# Decode Using First Letter Using Acrostic
+A script that decodes acrostics that use the first letter of each line. (102-acrostic)
