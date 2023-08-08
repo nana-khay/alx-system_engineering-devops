@@ -51,3 +51,7 @@ A script to display lines containing the pattern “root” and 3 lines after th
 
 # Display Pattern 4
 A script to display all the lines in the file /etc/passwd that do not contain the pattern “bin”. (17-hidethisword)
+
+# Letter Only
+A script to display all lines of the file /etc/ssh/sshd_config starting with a letter. (18-letteronly)
+
