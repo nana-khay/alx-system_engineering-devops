@@ -60,3 +60,7 @@ A script to replace characters. (19-AZ)
 
 # Remove Letters
 A script that removes all letters c and C from input. (20-hiago)
+
+# Reverse Input
+A script that reverse its input. (21-reverse)
+
