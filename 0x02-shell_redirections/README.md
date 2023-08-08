@@ -40,3 +40,5 @@ A script that displays the 10 newest files in the current directory. (12-newest_
 # Unique
 A script that takes a list of words as input and prints only words that appear exactly once. (13-unique)
 
+# Dispaly Pattern
+A script to display lines containing the pattern “root” from the file /etc/passw. (14-findthatword)
