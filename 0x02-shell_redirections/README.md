@@ -45,3 +45,6 @@ A script to display lines containing the pattern “root” from the file /etc/p
 
 # Display Pattern 2
 A script to display the number of lines that contain the pattern 'bin' (15-countthatword)
+
+# Display Pattern 3
+A script to display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.(16-whatsnext)
