@@ -1,5 +1,5 @@
 # Hello, World! Script
-This will print the text "Hello, World!" to the standard output. (0-hello_world)
+This will print the text "Hello, World!" to the standard output. File: (0-hello_world)
 
 # Confused Smiley
 A script to produce a confused smiley (1-confused_smiley)
@@ -64,3 +64,5 @@ A script that removes all letters c and C from input. (20-hiago)
 # Reverse Input
 A script that reverse its input. (21-reverse)
 
+# Display Users
+A script that displays all users and their home directories, sorted by users. (22-users_and_homes)
