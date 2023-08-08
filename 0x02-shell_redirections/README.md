@@ -57,3 +57,6 @@ A script to display all lines of the file /etc/ssh/sshd_config starting with a l
 
 # Replace Characters
 A script to replace characters. (19-AZ)
+
+# Remove Letters
+A script that removes all letters c and C from input. (20-hiago)
