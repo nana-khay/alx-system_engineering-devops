@@ -42,3 +42,6 @@ A script that takes a list of words as input and prints only words that appear e
 
 # Dispaly Pattern
 A script to display lines containing the pattern “root” from the file /etc/passw. (14-findthatword)
+
+# Display Pattern 2
+A script to display the number of lines that contain the pattern 'bin' (15-countthatword)
