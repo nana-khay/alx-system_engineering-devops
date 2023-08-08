@@ -69,3 +69,6 @@ A script that displays all users and their home directories, sorted by users. (2
 
 #Find Empty Files And Directories
 A script to find empty files and directories. (100-empty_casks)
+
+# List Files With Extension
+A script that lists all the files with a .gif extension in the current directory and all its sub-directories. (101-gifs)
