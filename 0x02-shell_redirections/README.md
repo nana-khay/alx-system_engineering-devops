@@ -55,3 +55,5 @@ A script to display all the lines in the file /etc/passwd that do not contain th
 # Letter Only
 A script to display all lines of the file /etc/ssh/sshd_config starting with a letter. (18-letteronly)
 
+# Replace Characters
+A script to replace characters. (19-AZ)
