@@ -66,3 +66,6 @@ A script that reverse its input. (21-reverse)
 
 # Display Users
 A script that displays all users and their home directories, sorted by users. (22-users_and_homes)
+
+#Find Empty Files And Directories
+A script to find empty files and directories. (100-empty_casks)
